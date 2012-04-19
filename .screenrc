@@ -1,0 +1,7 @@
+hardstatus alwayslastline "%H %{kc} %Y-%m-%d %c:%s %{kg} %l %{wb} %n %t %{ky} %LW"
+
+defscrollback 1000
+
+screen 1
+screen 0
+bind l windowlist
