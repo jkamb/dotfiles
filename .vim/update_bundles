@@ -4,7 +4,10 @@ git_bundles = [
   "git://github.com/ervandew/supertab.git",
   "git://github.com/godlygeek/tabular.git",
   "git://github.com/hallison/vim-rdoc.git",
-  "git://github.com/msanders/snipmate.vim.git",
+#  "git://github.com/msanders/snipmate.vim.git",
+  "git://github.com/garbas/vim-snipmate.git",
+  "git://github.com/tomtom/tlib_vim.git",
+  "git://github.com/MarcWeber/vim-addon-mw-utils.git",
   "git://github.com/pangloss/vim-javascript.git",
   "git://github.com/scrooloose/nerdtree.git",
   "git://github.com/timcharper/textile.vim.git",
@@ -30,6 +33,8 @@ git_bundles = [
   "git://github.com/vim-scripts/python.vim.git",
   "git://github.com/jistr/vim-nerdtree-tabs.git",
   "git://github.com/vim-scripts/vcscommand.vim",
+  "git://github.com/kien/ctrlp.vim.git",
+  "git://github.com/jeetsukumaran/vim-buffergator.git",
 ]
 
 vim_org_scripts = [
